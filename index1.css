@@ -1,0 +1,30 @@
+body{
+	font-family: sans-serif;
+	
+}
+
+#principal{
+	margin: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	
+}
+
+h1 {
+	font-size: 30px;
+	color: green;
+}
+p{
+	font-size: 20px;
+	color: green;
+
+}
+a input{
+	font-size: 15px;
+}
+
+
+
+	
+	
